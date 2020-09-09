@@ -42,9 +42,9 @@ Initialize the database
 rails db:create db:migrate db:seed
 
 
-Project Details
+#Project Details
 
-Appointment system
+#Appointment system
 
 Sign in and sign up process user can signup via doctor or patient
 once sign up complete user can signin own profile using email and password
@@ -52,3 +52,8 @@ Doctor can appoint patients to date and time
 Patient can appoint doctor to date and time ]
 Doctor can see own appointment list 
 Patient can see own appointment list
+
+
+#Doc
+
+https://github.com/rohityadav905/appointment-system/blob/master/appintment-system.docx
